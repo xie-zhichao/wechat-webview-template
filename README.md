@@ -1,5 +1,4 @@
-# 小程序内嵌webview 采坑实录
-本项目包含两个子项目
+# 项目介绍
 1.wechat
 使用taro创建的初始化项目
 2.react-ssr-h5
